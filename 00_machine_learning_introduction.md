@@ -116,9 +116,9 @@ it's very well used in support vector machines.
 ***
 ### <a name="k-means-clustering"></a>K-Means CLustering
 
-![lskn](resources/k_means_clustering.png)
+![k-means clustering](resources/k_means_clustering.png)
 
 ***
 ### <a name="hierarchical-clustering"></a>Hierarchical Clustering
 
-![lskn](resources/hierarchical_clustering.png)
+![hierarchical clustering](resources/hierarchical_clustering.png)
