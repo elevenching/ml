@@ -107,11 +107,11 @@ it's very well used in support vector machines.
 ***
 ### <a name="lskn"></a>L&S&K&N
 
-![lskn](resources/logistic_regression_and_svm.png)
+![ls](resources/logistic_regression_and_svm.png)
 
-![lskn](resources/neural_network_and_kernel_trick.png)
+![kn](resources/neural_network_and_kernel_trick.png)
 
-![lskn](resources/exercise_xor.png)
+![xor](resources/exercise_xor.png)
 
 ***
 ### <a name="k-means-clustering"></a>K-Means CLustering
