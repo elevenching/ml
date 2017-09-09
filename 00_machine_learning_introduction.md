@@ -19,6 +19,11 @@ Teching computers to learn to perform tasks from past experiences--previous data
 10. [Hierarchical Clustering](#hierarchical-clustering)
 
 ***
+###Main Algorithm
+
+![Decision Tree](resources/main_algorithm.png)
+
+***
 ###<a name="decision-tree"></a>Decision Tree
 
 Recommending Apps
