@@ -24,7 +24,7 @@ Teching computers to learn to perform tasks from past experiences--previous data
 ![Decision Tree](resources/main_algorithm.png)
 
 ***
-###<a name="decision-tree"></a>Decision Tree
+### <a name="decision-tree"></a>Decision Tree
 
 Recommending Apps
 
@@ -40,21 +40,21 @@ M      |14   |Pokemon Go
 ![Decision Tree](resources/decision_tree_01.png)
 
 ***
-###<a name="naive-bayes-algorithm"></a>Naive Bayes Algorithm
+### <a name="naive-bayes-algorithm"></a>Naive Bayes Algorithm
 
 Detecting Spam emails
 
 ![Naive Bayes Algorithm](resources/naive_bayes_algorithm_01.png)
 
 ***
-###<a name="gradient-descent"></a>Gradient descent
+### <a name="gradient-descent"></a>Gradient descent
 
 Look for the biggest downward direction
 
 ![Gradient descent](resources/gradient_descent_01.png)
 
 ***
-###<a name="linear-regression"></a>Linear regression
+### <a name="linear-regression"></a>Linear regression
 
 Price of a house, the best fitting line
 
@@ -68,7 +68,7 @@ Least Squares
 ![down the mountain](resources/linear_regression_03.png)
 
 ***
-###<a name="logistic-regression"></a>Logistic regression
+### <a name="logistic-regression"></a>Logistic regression
 
 acceptance at a university
 
@@ -80,12 +80,12 @@ the log loss function, the error function
 ![error function](resources/logistic_regression_03.png)
 
 ***
-###<a name="support-vector-machine"></a>Support vector machine
+### <a name="support-vector-machine"></a>Support vector machine
 
 ![support vector machine](resources/support_vector_machine_01.png)
 
 ***
-###<a name="kernel-trick"></a>Kernel Trick
+### <a name="kernel-trick"></a>Kernel Trick
 
 it's very well used in support vector machines.
 
@@ -96,7 +96,7 @@ it's very well used in support vector machines.
 ![the plane](resources/kernel_trick_03.png)
 
 ***
-###<a name="neural-network"></a>Neural Network
+### <a name="neural-network"></a>Neural Network
 
 ![neural network](resources/neural_network_01.png)
 
@@ -105,7 +105,7 @@ it's very well used in support vector machines.
 ![neural network](resources/neural_network_03.png)
 
 ***
-###<a name="lskn"></a>L&S&K&N
+### <a name="lskn"></a>L&S&K&N
 
 ![lskn](resources/logistic_regression_and_svm.png)
 
@@ -114,11 +114,11 @@ it's very well used in support vector machines.
 ![lskn](resources/exercise_xor.png)
 
 ***
-###<a name="k-means-clustering"></a>K-Means CLustering
+### <a name="k-means-clustering"></a>K-Means CLustering
 
 ![lskn](resources/k_means_clustering.png)
 
 ***
-###<a name="hierarchical-clustering"></a>Hierarchical Clustering
+### <a name="hierarchical-clustering"></a>Hierarchical Clustering
 
 ![lskn](resources/hierarchical_clustering.png)
