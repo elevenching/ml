@@ -1,6 +1,6 @@
 ## Machine Learning Introduction
 
-###What's the Machine Learnign?
+### What's the Machine Learnign?
 
 **Humans** learn from past experiences, Whereas **computers** need to be told what to do, they need to be programmed.
 
@@ -19,7 +19,7 @@ Teching computers to learn to perform tasks from past experiences--previous data
 10. [Hierarchical Clustering](#hierarchical-clustering)
 
 ***
-###Main Algorithm
+### Main Algorithm
 
 ![Decision Tree](resources/main_algorithm.png)
 
